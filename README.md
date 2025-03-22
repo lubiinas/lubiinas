@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lubina
+- 👋 Hi, I’m @Lubina Muhammad 
 - 👀 I’m interested in AI & Machine learning
 - 🌱 I’m currently learning DataScience & Machine Learning
 - 💞️ I’m looking to collaborate on community learning
